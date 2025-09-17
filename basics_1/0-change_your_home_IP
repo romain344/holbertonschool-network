@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# edit the localhost
 
 cp /etc/hosts /etc/hosts.backup
 
