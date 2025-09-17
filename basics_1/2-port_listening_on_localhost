@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+# star the localhost
 
 nc -l localhost 98
