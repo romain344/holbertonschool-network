@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# display ip there facebook and the locahost
+
 if [CONDITION_POUR_TESTER_SI_PAS_D_ARGUMENT]; then
 echo "Usage: 5-is_the_host_on_the_network {IP_ADDRESS}"
 else
