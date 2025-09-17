@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+# displays and listenig the ports
 
 netstat -lp
